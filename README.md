@@ -8,7 +8,7 @@ My research interests are focused on **developing artificial intelligence method
 
 #### 🌱 Representative Works
 
-* **GeminiMol**: a generic molecular representation model pre-trained on a miniaturized dataset (39,290), which incorporates conformational space profile into molecular representation learning. [GitHub](https://github.com/Wang-Lin-boop/GeminiMol)    
+* **GeminiMol**: a generic molecular representation model pre-trained on a miniaturized dataset (39,290), which incorporates conformational space profile into molecular representation learning. [_BioRxiv_](https://doi.org/10.1101/2023.12.14.571629) [GitHub](https://github.com/Wang-Lin-boop/GeminiMol)        
 * **PPI-Miner**: a motif-driven PPI identification method, that can be applied to discovering novel PPIs, the rational design of molecular glues, and protein vaccines. Using the PPI-Miner, we developed the first potential substrates database of CRBN, serving the rational design of **molecular glue** degraders. \[[_Journal of Chemical Information and Modeling_](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01033)\] \[[**Online Database**](https://bailab.siais.shanghaitech.edu.cn/services/crbn-subslib)\]
 * Discovery of **PPI disruptors** by targeting the SARS-CoV-2 spike protein. \[[_Journal of Medicinal Chemistry_](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.1c00320) \| [_Acta Pharmacologica Sinica_](https://www.nature.com/articles/s41401-021-00735-z)\]
 
