@@ -2,9 +2,9 @@
 
 #### 🔭 Brief Introduction
 
-I'm [**Lin Wang** \(王林\)](https://scholar.google.com.hk/citations?user=lFYS_EQAAAAJ&hl=zh-CN), a Ph.D. student of ShanghaiTech University, supervised by [Fang Bai \(白芳\)](https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN). I received my B.S. degree at college of life science of North East Agricultural University \(NEAU\) in 2019.    
+I'm [**Lin Wang** \(王林\)](https://scholar.google.com.hk/citations?user=lFYS_EQAAAAJ&hl=zh-CN), a Ph.D. student of ShanghaiTech University, supervised by [Fang Bai \(白芳\)](https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN).    
     
-My research interests center around the **rational design of small moleculal drugs and artificial proteins for therapeutic purposes**, with a particular focus on developing the molecular modulators of Protein-Protein Interaction \(PPI\). Additionally, I am dedicated to advancing computational methods for molecular design in order to find new avenues for revolution in drug design methodologies.   
+My research interests are focused on **developing artificial intelligence methods for the discovery of lead compounds in drug development** and applying them to design drugs for the treatment of **cancer, inflammation, neurodegenerative diseases, and chronic illnesses**. I have a particular interest in developing **molecular modulators for protein conformational changes and protein-protein interactions**. I am dedicated to advancing computational methods for molecular representation learning and molecular design to revolutionize drug discovery approaches.   
 
 #### 🌱 Representative Works
 
