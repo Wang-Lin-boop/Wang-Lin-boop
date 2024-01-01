@@ -4,7 +4,7 @@
 
 I'm [**Lin Wang** \(王林\)](https://scholar.google.com.hk/citations?user=lFYS_EQAAAAJ&hl=zh-CN), a Ph.D. student of ShanghaiTech University, supervised by [Fang Bai \(白芳\)](https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN).    
     
-My research interests are focused on **developing artificial intelligence methods for the discovery of lead compounds in drug development** and applying them to design drugs for the treatment of **cancer, inflammation, neurodegenerative diseases, and chronic illnesses**. I have a particular interest in developing **molecular modulators for protein conformational changes and protein-protein interactions**. I am dedicated to advancing computational methods for molecular representation learning and molecular design to revolutionize drug discovery approaches.   
+My research interests are focused on **developing artificial intelligence methods for the lead discovery** and applying them to design drugs for the treatment of **cancer, inflammation, neurodegenerative diseases, and chronic illnesses**. I have a particular interest in developing **molecular modulators for protein conformational changes and protein-protein interactions**. I am dedicated to advancing computational methods for molecular representation learning and molecular design to revolutionize drug discovery approaches.   
 
 #### 🌱 Representative Works
 
