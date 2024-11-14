@@ -2,7 +2,7 @@
 
 🔭 I'm [**Lin Wang** \(王林\)](https://scholar.google.com.hk/citations?user=lFYS_EQAAAAJ&hl=zh-CN), a postdoc in Institute of Systems Medicine of Chinese Academy of Medical Sciences, supervised by [Prof. Yang Zhang](https://scholar.google.com.hk/citations?user=MtBs-kMAAAAJ&hl=zh-CN&oi=ao).    
     
-😄 My research interests are focused on **developing artificial intelligence methods for the lead discovery** and applying them to design drugs for the treatment of **cancer, inflammation, neurodegenerative diseases, and chronic illnesses**. I have a particular interest in developing **molecular modulators for protein conformational changes and protein-protein interactions**. I am dedicated to advancing computational methods for molecular representation learning and molecular design to revolutionize drug discovery approaches.   
+😄 My research interests are focused on **developing artificial intelligence methods for the lead compound discovery** and applying them to design drugs for the treatment of **cancer, inflammation, neurodegenerative diseases, and chronic illnesses**. I have a particular interest in developing **molecular modulators for protein conformational changes and protein-protein interactions**. I am dedicated to advancing computational methods for molecular representation learning and small molecule design to revolutionize drug discovery approaches.   
 
 > 🌱 My Representative Works   
 
